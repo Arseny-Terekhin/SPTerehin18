@@ -1,2 +1,0 @@
-https://i.pinimg.com/originals/b1/7b/41/b17b4135eab99b839c7a3575bf25c17b.jpg src\com\company\picture.jpg
-https://dl3s2.muzika.fun/aHR0cDovL2YubXAzcG9pc2submV0L21wMy8wMDQvNTA3LzUxMy80NTA3NTEzLm1wMw== src\com\company\music.mp3
